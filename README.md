@@ -1,4 +1,4 @@
-<img width="1033" height="636" alt="Screenshot 2026-10-30 145801" src="https://github.com/user-attachments/assets/b8ad64cb-07fc-47c7-ac4f-c795bf02c8e9" /># BÁO CÁO BÀI TẬP / ĐỒ ÁN
+# BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** Nguyễn ĐăngKhoa
