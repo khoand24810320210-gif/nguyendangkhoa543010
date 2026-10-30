@@ -3,7 +3,7 @@
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** Nguyễn ĐăngKhoa
 - **Mã số sinh viên:** 24810320210
-- **Lớp:** 20DTHxx
+- **Lớp:**D19qtanm1
 - **Tên môn học:** Lập trình C# 
 - **Tên bài tập:** Bài tập 5.4
 
